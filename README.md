@@ -1,6 +1,3 @@
-# biblioteca
-Biblioteca remota
-
 <!DOCTYPE html>
 <html lang="es">
 <head>
