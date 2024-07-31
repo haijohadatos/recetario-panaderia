@@ -3,9 +3,14 @@ body{
   margin: 0;
 }
 
+a{
+  text-decoration: none;
+  color: white;
+}
+
 header{
   display: flex;
-  height: 80px;
+  min-height: 80px;
   background-color: #0a4241;
   justify-content: space-between;
   align-items: center;
