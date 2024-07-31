@@ -1,6 +1,6 @@
 body{
   font-family: sans-serif;
-  margin: 5;
+  margin: 0;
 }
 
 a{
@@ -14,7 +14,7 @@ header{
   background-color: #0a4241;
   justify-content: space-between;
   align-items: center;
-  padding: 15px;
+  padding: 10px;
 }
 
 .logo{
@@ -23,7 +23,7 @@ header{
 }
 
 .logo img{
-  height: 50px;
+  height: 60px;
   margin-right: 10px;
 }
 
@@ -32,21 +32,10 @@ nav a{
   padding-right: 10px;
 }
 
-nav a: hover{
+nav a:hover{
   color: black;
 }
 
 h1{
   color: white;
-}
-
-html {
-  background-color: #F8F8FE;
-  font-size: 13px;
-  color: #0a4241;
-}
-
-p {
-  padding: 8px;
-  margin: 25px;
 }
