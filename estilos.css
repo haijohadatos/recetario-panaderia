@@ -1,5 +1,13 @@
+body{
+  font-family: sans-serif;
+  margin: 0;
+}
+
 header{
   display: flex;
+  height: 70px;
+  background-color: #0a4241;
+  justify-content: space-between;
 }
 
 .logo{
