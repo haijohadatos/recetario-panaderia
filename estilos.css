@@ -39,3 +39,12 @@ nav a: hover{
 h1{
   color: white;
 }
+
+p {
+  padding: 8px;
+  margin: 25px;
+  background-color: #E3E3FD;
+  border-radius: 10px;
+  color: #0a4241;
+  font-size: 13px;
+}
