@@ -15,6 +15,7 @@ header{
   justify-content: space-between;
   align-items: center;
   padding: 10px;
+  font-size: 1.8rem;
 }
 
 .logo{
@@ -23,7 +24,7 @@ header{
 }
 
 .logo img{
-  height: 120px;
+  height: 110px;
   margin-right: 5px;
 }
 
