@@ -37,12 +37,27 @@ nav a:hover{
 }
 
 h1{
+  font-size: 2rem;
   color: white;
+}
+
+h2{
+  font-size: 1.6rem;
+  padding: 20px;
+  margin: 25px;
+  color: #0a4241;
+}
+
+h3 {
+  font-size: 1.4rem;
+  padding: 20px;
+  margin: 25px;
+  color: #0a4241;
 }
 
 p {
   padding: 20px;
   margin: 25px;
   color: #0a4241;
-  font-size: 13px;
+  font-size: 14px;
 }
