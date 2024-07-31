@@ -23,8 +23,8 @@ header{
 }
 
 .logo img{
-  height: 150px;
-  margin-right: 10px;
+  height: 120px;
+  margin-right: 5px;
 }
 
 nav a{
@@ -37,7 +37,7 @@ nav a:hover{
 }
 
 h1{
-  font-size: 2rem;
+  font-size: 1.8rem;
   color: white;
 }
 
