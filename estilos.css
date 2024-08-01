@@ -68,5 +68,7 @@ p{
 }
 
 img{
-  padding: 10px; 
+  display: block;
+  width: 80%;
+  margin: auto; 
 }
