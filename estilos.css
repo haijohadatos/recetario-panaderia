@@ -68,6 +68,6 @@ p{
 }
 
 img{
-  display: flex;
-  align-items: center; 
+  display: block;
+  justify-content: center; 
 }
