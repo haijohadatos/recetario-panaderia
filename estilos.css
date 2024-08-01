@@ -17,6 +17,19 @@ header{
   padding: 15px;
 }
 
+#logo-header .site-name {
+		display: block;
+		font-weight: 700;
+		font-size: 1.2em;
+	}
+	
+	#logo-header .site-desc {
+		display: block;
+		font-weight: 300;
+		font-size: 0.8em;
+		color: #999;
+	}
+
 .logo{
   display: flex;
   align-items: center;
