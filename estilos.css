@@ -9,25 +9,13 @@ a{
 }
 
 header{
+  display: flex;
   min-height: 80px;
   background-color: #b7c6c6;
   justify-content: space-between;
   align-items: center;
   padding: 15px;
 }
-
-#logo-header .site-name {
-		display: block;
-		font-weight: 700;
-		font-size: 1.2em;
-	}
-	
-	#logo-header .site-desc {
-		display: block;
-		font-weight: 300;
-		font-size: 0.8em;
-		color: #999;
-	}
 
 .logo{
   display: flex;
