@@ -50,8 +50,17 @@ nav a:hover{
     padding: 10px 0px;
   }
   .logo img{
-  height: 35px;
-  margin-right: 10px;
+    height: auto;
+    width: auto;
+    max-height: 100%;
+    max-width: 100%;
+  }
+}
+
+Fuente: <a href="https://recursivos.com/css/imagenes/" title="CSS: Imágenes">CSS: Imágenes</a>
+
+    
+  margin-right: 15px;
   }
 }
 
