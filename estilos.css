@@ -11,12 +11,11 @@ a{
 header{
   display: flex;
   min-height: 50px;
-  background-color: #b7c6c6;
+  background-color: #f0f8ff;
   justify-content: space-between;
   align-items: center;
   padding: 15px;
-  opacity: .5;
-
+  
   width: 100%;
   position: fixed;
 }
