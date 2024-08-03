@@ -74,7 +74,7 @@ p{
 }
 
 img{
-  display: block;
+  display: flex;
   margin: auto; 
   width: 50%;
   object-fit: contain;
