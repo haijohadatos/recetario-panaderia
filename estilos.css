@@ -11,7 +11,7 @@ a{
 header{
   display: flex;
   min-height: 50px;
-  background-color: #f0f8ff;
+  background-color: #e6e6fa;
   justify-content: space-between;
   align-items: center;
   padding: 15px;
