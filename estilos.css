@@ -77,6 +77,6 @@ img{
   display: block;
   margin: auto; 
   width: 50%;
-  object-fit: scale-down;
+  object-fit: contain;
   object-position: bottom;
 }
