@@ -49,6 +49,10 @@ nav a:hover{
   nav{
     padding: 10px 0px;
   }
+  .logo img{
+  height: 45px;
+  margin-right: 15px;
+  }
 }
 
 h1{
