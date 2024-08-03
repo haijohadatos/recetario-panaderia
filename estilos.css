@@ -28,8 +28,6 @@ header{
 }
 
 .logo img{
-  display: flex;
-  align-items: center;
   height: 45px;
   margin-right: 15px;
 }
