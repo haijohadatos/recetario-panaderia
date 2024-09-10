@@ -18,6 +18,8 @@ header{
   line-height: 60%;
   
   width: 100%;
+  left: 0;
+  top: 0;
   position: fixed;
 }
 
@@ -32,9 +34,9 @@ header{
 }
 
 nav a{
+  text-decoration: none;
   font-size: 14px;
   font-weight: 700;
-  margin: 0;
   padding-right: 25px;
 }
 
@@ -50,36 +52,35 @@ nav a:hover{
     padding: 10px 0px;
   }
   .logo img{
-    height: 35px;
+    height: 50px;
     margin-right: 15px;
-    margin: 0;
   }
 }
 
 h1{
-  font-size: 28px;
+  font-size: 22px;
   color: #0a4241;
 }
 
 h2{
-  font-size: 22px;
-  padding: 15px;
-  margin: 25px;
-  color: #0a4241;
-}
-
-h3{
   font-size: 20px;
   padding: 15px;
   margin: 25px;
   color: #0a4241;
 }
 
-p{
+h3{
+  font-size: 18px;
   padding: 15px;
   margin: 25px;
   color: #0a4241;
-  font-size: 14px;
+}
+
+p{
+  font-size: 17px;
+  padding: 15px;
+  margin: 25px;
+  color: #0a4241;
   line-height: 140%;
 }
 
@@ -94,5 +95,5 @@ p{
  }
 
 .main{
-  padding-top: 12rem;
+  padding-top: 6rem;
 }
